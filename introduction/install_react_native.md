@@ -32,5 +32,12 @@ To run your app on Android:
 
 执行启动命令后, 可以看见虚拟器上显示的内容.
 
+## React Native 简介
+
+React Native 的目标是高效跨平台开发 Native 应用,同时也强调了 "一次学习, 多个平台编写代码".
+也就是说, React Natie 不是 "一次编码,多处引用".
+![](./images/react-native-design.png)
+
+
 
 - - -
