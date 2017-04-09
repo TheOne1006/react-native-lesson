@@ -62,6 +62,24 @@ navigator 是一个十分重要的对象.它可以孔子路由的跳转和组价
     * 需要在头部显示的标题
 3. passProps: Object
     * 用于页面间的数据传递
+4. backButtonIcon: Image.propTypes.source
+    * 后退按钮图标
+5. backButtonTitle: String
+    * 后退按钮标题
+6. leftButtonIcon: Image.propTypes.source
+    * 左边按钮图标
+7. leftButtonTitle: String
+    * 左侧按钮标题
+8. onLeftButtonPress: function
+    * 左侧按钮点击事件
+9. rightButtonIcon: Image.propTypes.source
+    * 右侧按钮图标
+10. rightButtonTitle: string
+    * 右侧按钮标题
+11. onRightButtonPress: function
+    * 右侧按钮点击事件
+12. wrapperStyle: Object
+    * 包裹样式
 
 > navigator 对象
 
