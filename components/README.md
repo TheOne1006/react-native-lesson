@@ -8,3 +8,6 @@ React Native 的魅力在于能够使用 iOS 原声组件和原声 API, 因此�
     * [3.2 Text 组件](./TextComponent.md)
     * [3.3 NavigatorIOS 组件](./NavigatorIOSComponent.md)
     * [3.4 Text 组件](./TextInputComponent.md)
+    * [3.5 Touchable 组件](./TouchableComponent.md)
+    * [3.6 Image 组件](./ImageComponent.md)
+    * [3.7 TabBarIOS 组件](./TabBarIOSComponent.md)
